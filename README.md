@@ -1,4 +1,4 @@
-# 🛍 MyTiendita - MaxGear
+#  MyTiendita - MaxGear
 
 **Sprint 4 - Proyecto Final de Programación Orientada a Objetos**  
 **Universidad Nacional de Colombia**  
