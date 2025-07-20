@@ -158,10 +158,10 @@ Este módulo permite analizar el comportamiento de ventas para una mejor toma de
 - Texto dinámico con sugerencias de descuento.
 - Texto dinámico con sugerencias de reabastecimiento.
 
-> Espacios sugeridos para imágenes:
-> - `grafico_barras_ventas.png`
-> - `grafico_torta_distribucion.png`
-> - `sugerencias_promociones.png`
+<img width="1105" height="1105" alt="image" src="https://github.com/user-attachments/assets/322a2a8f-6803-4f0d-bc3d-0ace3d110efc" />
+<img width="1111" height="1111" alt="image" src="https://github.com/user-attachments/assets/f5e0b6cf-d737-4bee-9939-e8977c27b38a" />
+<img width="1095" height="1052" alt="image" src="https://github.com/user-attachments/assets/e7e45392-c0b6-45fc-8da6-d36cedd4f76b" />
+
 
 ---
 
