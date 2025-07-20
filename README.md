@@ -119,13 +119,12 @@ Cada compra:
 - `activity_checkout.xml` → Revisión y compra final  
 - `activity_resumen_ventas.xml` → Gráficas y sugerencias  
 - `activity_recargar.xml` → Recarga de saldo
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/7644d202-e162-4a96-9650-685958e755d0" />
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/e546f808-26b4-4ae5-92ce-728cf2a4e928" />
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/7e60927f-7052-453f-bb40-9df527379d7e" />
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/d4f7ad4f-54ef-46e2-82bd-1061d293047e" />
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/db2ff144-55bb-490c-bc68-d940a4108cee" />
 
-> Espacios para imágenes de interfaz:  
-> - Pantalla de inicio  
-> - Vista de carrito  
-> - Catálogo completo  
-> - Checkout con saldo y resumen  
-> - Estadísticas de ventas y gráficas  
 
 ---
 
