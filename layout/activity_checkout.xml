@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/saldocompra1">
+
+    <TextView
+        android:id="@+id/textSaldoActual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saldo actual: $0"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/textTotalCarrito"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total del carrito: $0"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/textSaldoRestante"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saldo después de compra: $0"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/buttonComprar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Realizar compra"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:padding="12dp"
+        android:backgroundTint="#4CAF50"
+        android:elevation="4dp" />
+</LinearLayout>
